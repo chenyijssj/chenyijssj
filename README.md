@@ -14,6 +14,3 @@
 电子邮箱：chenyijssj@outlook.com
 
 ![](https://pancenter.oss-cn-beijing.aliyuncs.com/disk/2025/04/20250424125017989.gif)
-
-![Static Badge](https://img.shields.io/badge/:badgeContent)
-![GitHub User's stars](https://img.shields.io/github/stars/chenyijssj)
