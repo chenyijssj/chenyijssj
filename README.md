@@ -4,7 +4,7 @@
 辰逸（辰逸解说世界/CannY/chenyijssj/chenyi）😎😎😎
 
 ## 💻 个人能力
-本人是一名编程爱好者，掌握的语言有HTML，CSS，JavaScript，Vue，Axios，Node.js，MongoDB，cursor，Sealos。短时间内还预计学习GDScript，C#，java，java kt，python。独立游戏开发者，AIGC创作者，Minecraft UP主，立志成为一名Counter-Strike职业选手
+本人是一名编程爱好者，掌握的语言有HTML，CSS，JavaScript，Vue，Axios，Node.js，MongoDB，cursor，Sealos。短时间内还预计学习GDScript，C#，java，java kt，python。独立游戏开发者，AIGC创作者，Minecraft UP主，立志成为一名CNCS职业选手
 
 ## 📬 联系我呀
 个人博客：https://chenyijssj.github.io/
