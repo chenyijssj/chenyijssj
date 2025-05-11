@@ -11,7 +11,7 @@
 独立游戏开发者，AIGC创作者，Minecraft UP主，立志成为一名CNCS职业选手
 
 ## 📬 联系我呀
-个人博客：https://chenyijssj.github.io/
+个人博客：https://chenyijssj.top/
 
 电子名片：https://muselink.cc/chenyijssj
 
