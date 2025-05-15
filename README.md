@@ -15,6 +15,6 @@
 
 电子名片：https://muselink.cc/chenyijssj
 
-电子邮箱：chenyijssj@outlook.com
+电子邮箱：chenyijssj@qq.com
 
 ![](https://pancenter.oss-cn-beijing.aliyuncs.com/disk/2025/04/20250424125017989.gif)
