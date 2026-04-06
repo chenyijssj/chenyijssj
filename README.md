@@ -17,4 +17,4 @@
 
 电子邮箱：chenyijssj@qq.com
 
-![]([https://pancenter.oss-cn-beijing.aliyuncs.com/disk/2025/04/20250424125017989.gif](https://bucket.rutno.com/d?sid=3YxZD4OT7rQaMpQjQeW6bsiBVP76))
+![](https://bucket.rutno.com/d?sid=3YxZD4OT7rQaMpQjQeW6bsiBVP76)
