@@ -8,7 +8,7 @@
 
 短时间内还预计学习GDScript，C#，java，java kt，python
 
-独立游戏开发者，AIGC创作者，Minecraft UP主，立志成为一名CNCS职业选手
+独立游戏开发者，AIGC Maker
 
 ## 📬 联系我呀
 个人博客：https://chenyijssj.top/
